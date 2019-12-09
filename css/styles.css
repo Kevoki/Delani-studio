@@ -1,0 +1,14 @@
+.picture{
+    //*background-image: url("../assets/backgrounds/h_img.jpg");*//
+    color: white;
+    text-align: center;
+}
+.about{
+    text-align: center;
+    color: black;
+}
+.SERVICES{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    color: white;
+    text-align: center;
+}

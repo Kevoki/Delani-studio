@@ -1,7 +1,6 @@
 $(document).ready(function(){
-
- //toggle in design,development and product mgmt
-    $("design1").click(function(){
+ //toggle in design,development and product management//
+    $(".design1").click(function(){
       $(".show").toggle();
       $(".click").toggle();
     });

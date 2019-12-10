@@ -27,8 +27,6 @@ h1 {
 h2 {
     text-align: center;
 }
-p {
-    text-align: center;
 }
 .contact {
     background-image: url("../assets/backgrounds/c_image.jpg");
@@ -50,7 +48,6 @@ footer {
     text-align: center;
     float: center;
     padding: 1%;
-    margin-inline: 3%;
 }
 #name {
     background-color: transparent;
@@ -63,10 +60,4 @@ footer {
 }
 #subscribe1 {
     background-color: transparent;
-}
-.container {
-    top: 15px;
-    left: 15px;
-    position: fixed;
-
 }

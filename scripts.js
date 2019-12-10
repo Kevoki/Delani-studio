@@ -1,7 +1,11 @@
 $(document).ready(function(){
 
  //toggle in design,development and product mgmt
-    $(".design").click(function(){
+    $(".DESIGN").click(function(){
+      $(".show").toggle();
+      $(".click").toggle();
+    });
+    $(".DEVELOPMENT").click(function(){
       $(".show").toggle();
       $(".click").toggle();
     });

@@ -33,7 +33,7 @@ h2 {
     text-align: center;
     height: 35em;
     background-size: cover;
-    padding: ;
+    margin: 1%;
 }
 .form-group {
     color: white;
@@ -46,6 +46,8 @@ h2 {
 footer {
     text-align: center;
     float: center;
+    padding: 1%;
+    margin-inline: 3%;
 }
 #name {
     background-color: transparent;

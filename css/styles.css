@@ -24,12 +24,22 @@
 h1 {
     text-align: center;
 }
-.whatWeDo {
-
-}
-.icons {
-   width: ;
-}
 h2 {
     text-align: center;
+}
+.contact {
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    color: white;
+    text-align: center;
+    height: 46em;
+    background-size: cover;
+    padding: ;
+}
+.form-group {
+    color: white;
+
+}
+.media {
+    text-align: center;
+    float: center;
 }
